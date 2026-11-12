@@ -1,0 +1,17 @@
+{
+  "http": {
+    "port": "8080"
+  },
+  "postgres": {
+    "host": "localhost",
+    "port": "5432",
+    "user": "user",
+    "password": "secret",
+    "db": "users",
+    "sslmode": "disable"
+  },
+  "jwt": {
+    "secret": "sfidute#kj&#$ldfh(043",
+    "ttl": "24h"
+  }
+}
